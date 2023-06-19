@@ -1,0 +1,23 @@
+.app-container {
+  background-color: #000000;
+  min-width: 100vw;
+  color: #ffffff;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.prime-logo {
+  width: 100vw;
+  height: 25vh;
+}
+
+.logo-container {
+  min-width: 100vw;
+}
+
+.movies-container {
+  background-color: #000000;
+  width: 90vw;
+  align-self: center;
+}
